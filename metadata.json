@@ -1,0 +1,7 @@
+{
+  "name": "UniGrade - Gestión Universitaria",
+  "description": "Plataforma integral para gestión de calificaciones universitarias con perfiles para administradores, maestros y alumnos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
